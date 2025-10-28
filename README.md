@@ -22,6 +22,6 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a L
 
 ![Ranking de Funcionários].(![03].(https://github.com/user-attachments/assets/d1989085-e8e4-406d-a654-02d54b924d2c)
 
-)
+
 ![Clientes por Estado](images/clientes_estado.png)
 ![Estoque de Produtos](images/estoque_produtos.png)
