@@ -17,8 +17,10 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a L
 📦 Estoque
 - Exibição da imagem do produto, nome e quantidade disponível
 - Visão rápida do status de estoque para tomada de decisão sobre reposição
-![Visão Geral das Vendas](![01](https://github.com/user-attachments/assets/5e861934-bb49-47d6-a43d-2e5932a70bb8)
+![Visão Geral das Vendas].(![01](https://github.com/user-attachments/assets/5bfbee4a-b21f-4e4e-9f94-5a9c7864c4fa)
 )
+)
+
 ![Ranking de Funcionários](images/ranking_funcionarios.png)
 ![Clientes por Estado](images/clientes_estado.png)
 ![Estoque de Produtos](images/estoque_produtos.png)
