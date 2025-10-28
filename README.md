@@ -20,8 +20,10 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a L
 ![Visão Geral das Vendas].(![01](https://github.com/user-attachments/assets/5bfbee4a-b21f-4e4e-9f94-5a9c7864c4fa)
   
 
-![Ranking de Funcionários].(![03].(https://github.com/user-attachments/assets/d1989085-e8e4-406d-a654-02d54b924d2c)
+![Ranking de Funcionários].(![03].(https://github.com/user-attachments/assets/d1989085-e8e4-406d-a654-02d54b924d2c).
 
 
-![Clientes por Estado](images/clientes_estado.png)
-![Estoque de Produtos](images/estoque_produtos.png)
+![Clientes por Estado](![05](https://github.com/user-attachments/assets/c5bbf9ab-4411-49ba-82fe-4e391eff68b8)
+)
+![Estoque de Produtos](![04](https://github.com/user-attachments/assets/56989bc0-0821-4ac0-9bfa-2feb012c026d)
+)
